@@ -3,7 +3,7 @@ name: docker 安装包下载
 on:
   workflow_dispatch:
   schedule:
-    - cron: '00 23 * * *'
+    - cron: '00 23 * * 1'
 
 permissions:
   contents: write
