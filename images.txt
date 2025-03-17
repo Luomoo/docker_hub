@@ -1,3 +1,4 @@
 zlmediakit/zlmediakit:master
 nginx
 rabbitmq:management
+mysql:8.1.0
